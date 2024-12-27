@@ -1,6 +1,6 @@
 # Hey, I'm Werner Martin Schindel :wave: :vulcan_salute:
 
-I am an Electrical Engineer, focused on electronics, studying Data Science to enhance IoT applications, specially in Automotive application. 
+I am an Electrical Engineer, focused on electronics, studying Data Science to enhance IoT applications, specially in Automotive area. 
 
 I am a Engineer proficient in Industrial Automation, Product Validation and Project Managing. 
 
