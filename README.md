@@ -2,7 +2,7 @@
 
 I am an Electrical Engineer, focused on electronics, studying Data Science to enhance IoT applications, specially in Automotive area. 
 
-I am a Engineer proficient in Industrial Automation, Product Validation and Project Managing. 
+I am an engineer, proficient in Industrial Automation, Product Validation and Project Managing. 
 
 Knowledge of Python, Pandas, Matplotlib, as well as programming in C language. 
 
